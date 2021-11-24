@@ -1,0 +1,21 @@
+How to create git repository:-
+
+1. First create a folder in your pc  then open that path in Command prompt 
+	then enter git init
+	it will create .git file in your particular folder
+2.  git add . /  git add "foldername"
+3.  git commit -m "Comments"
+4.  Now open the gitHub site and then create a new repository with the name
+5. then copy the online code from repostory in format of(https.//github.//)
+6. in command prompt enter command :- git remote add origin and here paste that link 
+7. git status
+8. git add .
+9. git commit-m "comments"
+10 git push -u  origin master
+10. git pull
+
+next time to push the file into git:-
+1. git status
+2. git add "sample.txt"
+3. git commit -m "sample file changes-by "
+4. git push
