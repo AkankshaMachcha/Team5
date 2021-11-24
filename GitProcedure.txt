@@ -12,7 +12,16 @@ How to create git repository:-
 8. git add .
 9. git commit-m "comments"
 10 git push -u  origin master
-10. git pull
+11. git pull
+
+to clone the file from repository into pc:-
+command:- git clone paste the online code 
+
+to add the new people in repository:-
+1. open github site then click on settings
+2. click on the option of manage acces
+3. then click on add people button 
+4. and then Enter the id of new people then enter and then it will send the mail to that particular one then they have to click on view invitation and accept the request
 
 next time to push the file into git:-
 1. git status
